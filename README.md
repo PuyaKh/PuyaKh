@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Puya Khandany
-- 👀 I’m interested in ...
+- 👀 I’m interested in Programming,Gaming,Music,
 - 🌱 I’m currently learning Python, MMSQl, PostgreSQL , 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Puya.khandany@gmail.com 
